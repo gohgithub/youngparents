@@ -4,7 +4,6 @@ node-v12.22.12-x64
 【主要技術 or 套件版本】
 
 ● vue：3.0.0
-
 ● vue-cli：4.5.0
 ● vuex：4.0.2
 ● bootstrap：5.1.3
